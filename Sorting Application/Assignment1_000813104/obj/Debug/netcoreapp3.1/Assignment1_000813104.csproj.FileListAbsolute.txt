@@ -1,0 +1,14 @@
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\bin\Debug\netcoreapp3.1\Assignment1_000813104.exe
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\bin\Debug\netcoreapp3.1\Assignment1_000813104.deps.json
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\bin\Debug\netcoreapp3.1\Assignment1_000813104.runtimeconfig.json
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\bin\Debug\netcoreapp3.1\Assignment1_000813104.runtimeconfig.dev.json
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\bin\Debug\netcoreapp3.1\Assignment1_000813104.dll
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\bin\Debug\netcoreapp3.1\Assignment1_000813104.pdb
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\obj\Debug\netcoreapp3.1\Assignment1_000813104.csprojAssemblyReference.cache
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\obj\Debug\netcoreapp3.1\Assignment1_000813104.AssemblyInfoInputs.cache
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\obj\Debug\netcoreapp3.1\Assignment1_000813104.AssemblyInfo.cs
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\obj\Debug\netcoreapp3.1\Assignment1_000813104.csproj.CoreCompileInputs.cache
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\obj\Debug\netcoreapp3.1\Assignment1_000813104.dll
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\obj\Debug\netcoreapp3.1\Assignment1_000813104.pdb
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\obj\Debug\netcoreapp3.1\Assignment1_000813104.genruntimeconfig.cache
+C:\Users\brije\source\repos\Assignment1_000813104\Assignment1_000813104\bin\Debug\netcoreapp3.1\Employee.csv
